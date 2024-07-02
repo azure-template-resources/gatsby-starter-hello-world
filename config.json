@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0.0",
+  "components": [
+    {
+      "id": "",
+      "friendlyName": "Gatsby App",
+      "type": "static",
+      "appLocation": "/",
+      "outputLocation": "public"
+    }
+  ]
+}
